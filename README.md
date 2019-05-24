@@ -1,2 +1,3 @@
 # hello-world
-GitHub hello world example from https://guides.github.com/activities/hello-world/
+
+Antonio here, I like going hiking with friends and knowing new cities and places whenever I can ;-)
